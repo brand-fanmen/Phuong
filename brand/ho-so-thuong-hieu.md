@@ -1,7 +1,7 @@
 # Hồ sơ thương hiệu Fanmen
 
 > Tài liệu nền tảng, dùng lâu dài. Chỉ cập nhật khi người dùng đồng ý.
-> Các mục ghi `[CẦN BỔ SUNG]` là thông tin chưa có. Agent không được tự bịa các mục này.
+> Các mục ghi `[CẦN BỔ SUNG]` **đang được thương hiệu thay đổi lại, tạm thời chưa có**. Agent không tự bịa các mục này, nhưng cũng không dừng việc vì thiếu chúng. Xem cách xử lý ở CLAUDE.md mục 9.
 
 Cập nhật: 12/11/2026
 
@@ -24,8 +24,7 @@ Ngành hàng gồm sữa tắm, dầu gội, sữa rửa mặt, nước hoa, x�
 | [CẦN BỔ SUNG] | | | |
 
 ## 3. Sứ mệnh, tầm nhìn, giá trị cốt lõi
-> Theo người dùng, các nội dung này có trên website. Tuy nhiên môi trường làm việc của agent không truy cập được fanmen.vn.
-> **Người dùng vui lòng dán nguyên văn vào đây.**
+> Đang được xây dựng lại. Agent Chiến lược có thể đề xuất phiên bản mới trong quá trình làm định vị và guideline. Bản nào được duyệt sẽ ghi vào đây.
 
 - Sứ mệnh: [CẦN BỔ SUNG]
 - Tầm nhìn: [CẦN BỔ SUNG]

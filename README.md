@@ -35,7 +35,4 @@ Tất cả đều là file `.md` thuần, mở bằng bất kỳ trình soạn t
 - Phần đầu (giữa hai dòng `---`) của các file trong `.claude/agents/` là cấu hình kỹ thuật. Chỉ nên sửa dòng `description`.
 
 ## Việc nên làm tiếp
-Điền các mục `[CẦN BỔ SUNG]` trong `brand/ho-so-thuong-hieu.md`:
-- sứ mệnh và giá trị cốt lõi;
-- danh mục sản phẩm, giá, công dụng đã công bố;
-- logo, màu, font.
+Các mục `[CẦN BỔ SUNG]` trong `brand/ho-so-thuong-hieu.md` đang được thay đổi lại. Agent vẫn làm việc bình thường và đánh dấu giả định. Khi có thông tin chính thức, điền vào file đó.

@@ -175,11 +175,15 @@ Trưởng phòng chạy checklist này với mọi đầu ra:
 
 ---
 
-## 9. Thông tin còn thiếu (cần người dùng bổ sung)
+## 9. Thông tin đang được xây dựng lại
 
-Agent không được bịa các thông tin dưới đây. Khi cần dùng, hãy hỏi người dùng hoặc ghi rõ là giả định.
+Các thông tin dưới đây **đang được thương hiệu thay đổi lại, tạm thời chưa có**. Cách xử lý:
+- **Không dừng việc chỉ vì thiếu các thông tin này.** Cứ làm tiếp dựa trên những gì đã có trong file này.
+- **Không bịa.** Khi cần, ghi rõ `[GIẢ ĐỊNH: …]` hoặc `[CẦN XÁC NHẬN: …]` để team điền sau.
+- Nếu một thông tin là **then chốt** cho việc đang làm, ví dụ công dụng sản phẩm khi viết claim, thì Trưởng phòng đưa vào 1 trong 3 câu hỏi làm rõ.
+- Với sứ mệnh, giá trị cốt lõi và nhận diện hình ảnh: agent Chiến lược **được phép đề xuất mới** như một phần của việc xây định vị và guideline.
 
-- [ ] Sứ mệnh, tầm nhìn, giá trị cốt lõi (nguyên văn từ website). Agent không truy cập được fanmen.vn, nên người dùng cần dán vào `brand/ho-so-thuong-hieu.md`.
+- [ ] Sứ mệnh, tầm nhìn, giá trị cốt lõi
 - [ ] Danh mục sản phẩm, giá bán và công dụng đã công bố của từng sản phẩm (phiếu công bố)
 - [ ] Bảng giá đối thủ (Rhys Man, Nerman…) để agent Nghiên cứu so sánh nội bộ
 - [ ] Logo, màu sắc, font chữ đang dùng
