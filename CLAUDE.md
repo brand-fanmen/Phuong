@@ -162,6 +162,7 @@ Trưởng phòng chạy checklist này với mọi đầu ra:
   - `01-nghien-cuu.md`, `02-chien-luoc.md`, `03-content.md`…: đầu ra từng agent
   - `TONG-HOP.md`: bản tổng hợp cuối của Trưởng phòng
 - Tên file viết thường, không dấu, nối bằng dấu gạch ngang. Nội dung file viết bằng tiếng Việt có dấu.
+- **Kết quả chưa duyệt hoặc đang làm dở** lưu trong `draft/` (cùng quy ước thư mục `YYYY-MM-DD_ten-cong-viec/`). Trạng thái từng file được ghi trong `draft/README.md`. Khi người dùng duyệt bản cuối, chuyển sang `output/`. Nội dung trong `draft/` **không phải thông tin chính thức**; agent không được coi đó là thông tin thương hiệu đã chốt.
 - Kiến thức dùng lâu dài (định vị đã duyệt, guideline, persona, đối thủ, bài học campaign) được cập nhật vào `brand/`, **chỉ khi người dùng đồng ý**.
 - Mẫu tài liệu nằm trong `templates/`.
 
