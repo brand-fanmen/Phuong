@@ -19,7 +19,8 @@ Người dùng muốn làm từng phần một. Trạng thái từng file:
 | `02a-phuong-an-dinh-vi.md` | 3 phương án định vị đầu tiên | ❌ Người dùng không chọn (bị lệch về "thơm") |
 | `02b-dinh-vi-sua.md` | Định vị lifestyle "Sẵn sàng mỗi ngày" | ⏸ Chưa duyệt ("bản tổng chưa ok lắm") |
 | `02c-brand-story-dna.md` | Brand Story và DNA, bản 1 (dạng dài) | 🔁 Đã thay bằng bản 02d |
-| `02d-brand-story-dna-v2.md` | Brand Story và DNA, bản 2, viết theo khuôn 2 guideline mẫu | ⏳ **Đang chờ người dùng duyệt** |
+| `02d-brand-story-dna-v2.md` | Brand Story và DNA, bản 2, viết theo khuôn 2 guideline mẫu | 🔁 Đã thay bằng bản 02e |
+| `02e-brand-story-dna-v3.md` | Brand Story và DNA, bản 3, trục "Easier life → proactive, bắt đầu từ Fanmen" | ⏳ **Đang chờ người dùng duyệt** |
 
 **Thứ tự các phần tiếp theo (sau khi Story và DNA được duyệt):**
 1. Định vị và Lời hứa
